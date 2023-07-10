@@ -1,0 +1,75 @@
+/* Common Shared style */
+body{
+    font-family: 'Lato', sans-serif;
+}
+/* header section */
+.header{
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 50px 140px 0 140px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.banner-content{
+max-width: 500px;
+}
+.banner .profile-pic{
+width: 500px;
+}
+
+/* .profile-pic{
+    width: 635px;
+    height: 800px;
+} */
+.banner-title{ 
+ color: #272727;
+  font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+    height: 288px;
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.btn-primary{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+border: 0;
+}
+/* hot-deal-section */
+.hot-deal{  
+    padding:  ;  
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.hot-deal .red-rose{
+width: 500px;
+}
+/* .red-rose{
+    width: 318px;
+    height: 420px;
+} */
+
+.hot-deal-content{    
+max-width: 500px;
+}
+.hot-deal-title{    
+
+}
+.hot-deal-description{    
+
+}
+
